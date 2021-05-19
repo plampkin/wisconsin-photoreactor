@@ -1,6 +1,6 @@
 # digital-driver
 
-A photoreactor driver board designed to be controlled digitally over I2C.
+A photoreactor driver board designed to be controlled digitally over I2C and adjust light intensity and fan speed via pulse width modulation.
 
 ## PCB
 
