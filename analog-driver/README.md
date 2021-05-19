@@ -1,6 +1,6 @@
 # analog driver
 
-A photoreactor driver board with a physical knob to adjust light intensity.
+A photoreactor driver board with a physical knob to adjust light intensity via modulation of constant current.
 
 ## PCB
 
